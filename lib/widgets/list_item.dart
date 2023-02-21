@@ -106,7 +106,7 @@ class _ListItemState extends State<ListItem> {
                           width: 5.0,
                         ),
                         const Text(
-                          "Add to Favorite",
+                          "I Liked It",
                           style: TextStyle(color: Colors.redAccent),
                         ),
                       ],
